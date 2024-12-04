@@ -1,3 +1,6 @@
+[Stats]: https://github-readme-stats.vercel.app/api?username=fldeluca&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&include_all_commit=true
+[Languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=fldeluca&theme=midnight-purple&hide=&langs_count=20&layout=compact&hide_border=true
+
 <h1 align="center"><b>Hey, I'm Franco Deluca </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 
@@ -62,6 +65,6 @@ I'm an Advanced Technician in Systems Analysis, currently working on my Bachelor
 
 ## Github Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=fldeluca&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/fldeluca)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=fldeluca&theme=material-palenight)](https://github.com/fldeluca)
-</div>
+| Stats | Languages
+| ----------- | -----------
+| ![Stats] | ![Languages]|
